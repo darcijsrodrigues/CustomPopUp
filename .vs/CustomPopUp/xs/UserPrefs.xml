@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7839D421-0E84-45A4-9C48-BD2D26995FB1}|Default">
+  <MonoDevelop.Ide.ItemProperties.CustomPopUp.Android PreferredExecutionTarget="Android.0019650173" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomPopUp/App.xaml.cs">
+    <Files>
+      <File FileName="CustomPopUp/MainPage.xaml.cs" Line="29" Column="10" />
+      <File FileName="CustomPopUp/MainPage.xaml" Line="20" Column="31" />
+      <File FileName="CustomPopUp/MyPopUp.xaml" Line="15" Column="1" />
+      <File FileName="CustomPopUp/MyPopUp.xaml.cs" Line="1" Column="1" />
+      <File FileName="CustomPopUp/App.xaml.cs" Line="14" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../Documents/Cemig/src/PocketAgency/Cemig.PocketAgency.Core/Managers/AttendanceManager.cs" line="24" offsetX="335" offsetY="368" expression="provider" liveUpdate="False" />
+    <Watch file="../../../../../Documents/Cemig/src/PocketAgency/Cemig.PocketAgency.Android/UI/Screens/Attendance/AttendanceListItem.cs" line="134" offsetX="709" offsetY="2112" expression="item" liveUpdate="False" />
+    <Watch file="../../../../../Documents/Cemig/src/PocketAgency/Cemig.PocketAgency.Android/UI/Screens/Attendance/AttendanceListItem.cs" line="134" offsetX="709" offsetY="2138" expression="item.Title" liveUpdate="False" />
+    <Watch file="../../../../../Documents/MyProjects/Cemig/src/PocketAgency/Cemig.PocketAgency.Android/UI/Screens/Attendance/AttendanceScreen.cs" line="159" offsetX="470" offsetY="2528" expression="attendance.Screen" liveUpdate="False" />
+    <Watch file="../../../../../Documents/MyProjects/Cemig/src/PocketAgency/Cemig.PocketAgency.Android/UI/Screens/Facility/FacilityScreen.cs" line="290" offsetX="388" offsetY="4609" expression="attendanceName" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.CustomPopUp.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

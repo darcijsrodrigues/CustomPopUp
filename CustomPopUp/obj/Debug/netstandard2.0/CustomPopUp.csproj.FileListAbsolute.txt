@@ -1,0 +1,13 @@
+/Users/darcijuniosoaresrodrigues/Projects/CustomPopUp/CustomPopUp/bin/Debug/netstandard2.0/CustomPopUp.deps.json
+/Users/darcijuniosoaresrodrigues/Projects/CustomPopUp/CustomPopUp/bin/Debug/netstandard2.0/CustomPopUp.dll
+/Users/darcijuniosoaresrodrigues/Projects/CustomPopUp/CustomPopUp/bin/Debug/netstandard2.0/CustomPopUp.pdb
+/Users/darcijuniosoaresrodrigues/Projects/CustomPopUp/CustomPopUp/obj/Debug/netstandard2.0/CustomPopUp.csprojAssemblyReference.cache
+/Users/darcijuniosoaresrodrigues/Projects/CustomPopUp/CustomPopUp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/darcijuniosoaresrodrigues/Projects/CustomPopUp/CustomPopUp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/darcijuniosoaresrodrigues/Projects/CustomPopUp/CustomPopUp/obj/Debug/netstandard2.0/CustomPopUp.csproj.CoreCompileInputs.cache
+/Users/darcijuniosoaresrodrigues/Projects/CustomPopUp/CustomPopUp/obj/Debug/netstandard2.0/CustomPopUp.AssemblyInfoInputs.cache
+/Users/darcijuniosoaresrodrigues/Projects/CustomPopUp/CustomPopUp/obj/Debug/netstandard2.0/CustomPopUp.AssemblyInfo.cs
+/Users/darcijuniosoaresrodrigues/Projects/CustomPopUp/CustomPopUp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/darcijuniosoaresrodrigues/Projects/CustomPopUp/CustomPopUp/obj/Debug/netstandard2.0/CustomPopUp.dll
+/Users/darcijuniosoaresrodrigues/Projects/CustomPopUp/CustomPopUp/obj/Debug/netstandard2.0/CustomPopUp.pdb
+/Users/darcijuniosoaresrodrigues/Projects/CustomPopUp/CustomPopUp/obj/Debug/netstandard2.0/MyPopUp.xaml.g.cs
